@@ -13,7 +13,7 @@ We suggest using virtual env to configure the experimental environment.
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/Merrical/DAR_code.git
+git clone https://github.com/Merrical/DAR.git
 ```
 
 2. Create experimental environment using virtual env:
